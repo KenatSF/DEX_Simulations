@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc0dee3f-c4e7-4290-83c1-67baf1016c8f" name="Default Changelist" comment="" />
+    <list default="true" id="cc0dee3f-c4e7-4290-83c1-67baf1016c8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="274MofZibWDxgf5lBgVZPtf69be" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,7 +31,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DEX_Watcher" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.c_Tx_AAVE_UV2_UV3_NoProfit_V3 (1)">
+  <component name="RunManager" selected="Python.c_Tx_AAVE_UV2_UV3_NoProfit">
     <configuration name="c_Tx_AAVE_UV2_UV3_NoProfit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DEX_Simulations" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,9 +139,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.c_Tx_AAVE_UV2_UV3_NoProfit_V3 (1)" />
         <item itemvalue="Python.d_Tx_CRV_SV2_UV3" />
-        <item itemvalue="Python.c_Tx_AAVE_UV2_UV3_NoProfit_V3" />
         <item itemvalue="Python.i_Tx_token_for_WETH" />
         <item itemvalue="Python.h_Tx_WETH_for_token" />
       </list>
@@ -159,25 +163,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648575310434" />
-    <state width="1899" height="314" key="GridCell.Tab.0.bottom" timestamp="1648584664232">
+    <state width="1899" height="314" key="GridCell.Tab.0.bottom" timestamp="1648585959451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1648584664232" />
-    <state width="1899" height="314" key="GridCell.Tab.0.center" timestamp="1648584664228">
+    <state width="1899" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1648585959451" />
+    <state width="1899" height="314" key="GridCell.Tab.0.center" timestamp="1648585959451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="314" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1648584664228" />
-    <state width="1899" height="314" key="GridCell.Tab.0.left" timestamp="1648584664228">
+    <state width="1899" height="314" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1648585959451" />
+    <state width="1899" height="314" key="GridCell.Tab.0.left" timestamp="1648585959451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="314" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1648584664228" />
-    <state width="1899" height="314" key="GridCell.Tab.0.right" timestamp="1648584664232">
+    <state width="1899" height="314" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1648585959451" />
+    <state width="1899" height="314" key="GridCell.Tab.0.right" timestamp="1648585959451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="314" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1648584664232" />
+    <state width="1899" height="314" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1648585959451" />
     <state x="463" y="165" key="SettingsEditor" timestamp="1648575181254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648575181254" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1648745410941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648745410941" />
   </component>
 </project>
