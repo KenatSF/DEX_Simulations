@@ -20,12 +20,12 @@ def swap(router, _tokenIn, _tokenOut, amount):
 ############################################################                    Reserves
 
 uni = {
-    'name': 'PANGOLIN',
-    'PNG': 645402.24, 'WAVAX': 644235.53
+    'name': 'UNISWAP',
+    'WETH': 323.5242, 'RARI': 59639.7098
 }
 sushi = {
-    'name': 'JOE',
-    'PNG': 2383.55, 'WAVAX': 2367.43
+    'name': 'SUSHI',
+    'WETH': 452.848, 'RARI': 83378.949
 
 }
 
