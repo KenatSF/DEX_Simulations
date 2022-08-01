@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc0dee3f-c4e7-4290-83c1-67baf1016c8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,49 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DEX_Watcher" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Main_Simulate_Swap">
+  <component name="RunManager" selected="Python.Dex_3_1_Tx_COTI_Flash">
+    <configuration name="Dex_3_1_Tx_COTI_Flash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DEX_Simulations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tx_0_Simulations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tx_0_Simulations/Dex_3_1_Tx_COTI_Flash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dex_3_2_Tx_TOKE_Flash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DEX_Simulations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tx_0_Simulations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tx_0_Simulations/Dex_3_2_Tx_TOKE_Flash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Main_Simulate_SimpleSwap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DEX_Simulations" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="c_Tx_AAVE_UV2_UV3_NoProfit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="optimize_3_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DEX_Simulations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,74 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tx_1_Simulations_arb_swap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/profits_optimizers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\maste\Documents\Code_Projects\DEX_Simulations\Tx_1_Simulations_arb_swap\c_Tx_AAVE_UV2_UV3_NoProfit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="d_Tx_CRV_SV2_UV3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DEX_Simulations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tx_1_Simulations_arb_swap" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tx_1_Simulations_arb_swap/d_Tx_CRV_SV2_UV3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="h_Tx_WETH_for_token" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DEX_Simulations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tx_1_Simulations_arb_swap" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tx_1_Simulations_arb_swap/h_Tx_WETH_for_token.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="i_Tx_token_for_WETH" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DEX_Simulations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tx_1_Simulations_arb_swap" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tx_1_Simulations_arb_swap/i_Tx_token_for_WETH.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/profits_optimizers/optimize_3_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dex_3_1_Tx_COTI_Flash" />
+        <item itemvalue="Python.Dex_3_2_Tx_TOKE_Flash" />
         <item itemvalue="Python.Main_Simulate_Swap" />
+        <item itemvalue="Python.optimize_3_2" />
         <item itemvalue="Python.Main_Simulate_SimpleSwap" />
-        <item itemvalue="Python.d_Tx_CRV_SV2_UV3" />
-        <item itemvalue="Python.i_Tx_token_for_WETH" />
-        <item itemvalue="Python.h_Tx_WETH_for_token" />
       </list>
     </recent_temporary>
   </component>
@@ -182,29 +162,40 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="178" key="GridCell.Tab.0.bottom" timestamp="1658032937459">
+    <state width="1899" height="311" key="GridCell.Tab.0.bottom" timestamp="1658466790432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1658032937459" />
-    <state width="1899" height="178" key="GridCell.Tab.0.center" timestamp="1658032937459">
+    <state width="1899" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1658466790432" />
+    <state width="1899" height="311" key="GridCell.Tab.0.center" timestamp="1658466790431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="178" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1658032937459" />
-    <state width="1899" height="178" key="GridCell.Tab.0.left" timestamp="1658032937459">
+    <state width="1899" height="311" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1658466790431" />
+    <state width="1899" height="311" key="GridCell.Tab.0.left" timestamp="1658466790431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="178" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1658032937459" />
-    <state width="1899" height="178" key="GridCell.Tab.0.right" timestamp="1658032937459">
+    <state width="1899" height="311" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1658466790431" />
+    <state width="1899" height="311" key="GridCell.Tab.0.right" timestamp="1658466790432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="178" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1658032937459" />
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1658032604873">
+    <state width="1899" height="311" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1658466790432" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1659312178975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1658032604873" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1659312178975" />
     <state x="771" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658032980441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="771" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1658032980441" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tx_0_Simulations/Dex_3_1_Tx_COTI_Flash.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
