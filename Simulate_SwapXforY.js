@@ -43,8 +43,8 @@ console.log(`${dex_b['name']} DEX Reserves ${x}: ${dex_b[x]} Reserves ${y}: ${de
 console.log(" ");
 console.log("--------------------------------")
 console.log("Flash Loan Swap")
-var amount_for_swapping = getValues(dex_a[x], dex_a[y], dex_b[x], dex_b[y], true, true);
-console.log(`Pre-Flash Loan amount: ${5.6181579589843835}`);
+//var amount_for_swapping = getValues(dex_a[x], dex_a[y], dex_b[x], dex_b[y], true, true);
+var amount_for_swapping = 5;
 console.log(`Flash Loan amount: ${amount_for_swapping}`);
 var amount_11 = swap(dex_b, x, y, amount_for_swapping)
 console.log(" ");
